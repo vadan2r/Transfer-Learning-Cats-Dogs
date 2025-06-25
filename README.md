@@ -19,25 +19,8 @@ https://colab.research.google.com/drive/1dZh6X1cFzMwgUphO1a_4O0lukdZstTiK?usp=sh
 
 Este projeto utiliza um conjunto de dados de imagens de cães e gatos, organizado na seguinte estrutura de diretórios:
 
-Proj2025jul24/
-├── Train/
-│ ├── cats/
-│ │ ├── [nome_do_arquivo_1.jpg]
-│ │ ├── [nome_do_arquivo_2.jpg]
-│ │ └── ...
-│ └── dogs/
-│ ├── [nome_do_arquivo_1.jpg]
-│ ├── [nome_do_arquivo_2.jpg]
-│ └── ...
-└── Validation/
-├── cats/
-│ ├── [nome_do_arquivo_1.jpg]
-│ │ ├── [nome_do_arquivo_2.jpg]
-│ │ └── ...
-│ └── dogs/
-│ ├── [nome_do_arquivo_1.jpg]
-│ ├── [nome_do_arquivo_2.jpg]
-│ └── ...
+
+![image](https://github.com/user-attachments/assets/cc7008a8-41ad-4a7b-9a89-f9c5e4ef473f)
 
 
 *   Número de imagens de gatos na pasta de treinamento: 401
